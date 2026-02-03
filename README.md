@@ -45,8 +45,7 @@ Then run:
 ```bash
 python play.py
 ```
-
-https://github.com/user-attachments/assets/877ff11a-30cb-4027-b334-a35324190078
+![game](https://github.com/user-attachments/assets/53d4b7e8-01d4-4a3f-8243-ddabd27ef4ca)
 
 ## Requirements
 
