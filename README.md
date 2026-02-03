@@ -46,8 +46,7 @@ Then run:
 python play.py
 ```
 
-https://github.com/user-attachments/assets/b6013cd3-315a-4be8-a03c-602c2d484fc3
-
+https://github.com/user-attachments/assets/877ff11a-30cb-4027-b334-a35324190078
 
 ## Requirements
 
