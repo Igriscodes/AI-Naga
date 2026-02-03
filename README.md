@@ -12,6 +12,14 @@ This repository contains a high-performance Snake Game that's AI trained using D
 *   `model.py`: The Deep Q-Network (Linear_QNet) architecture.
 *   `agent.py`: The RL Agent logic.
 
+## Requirements
+
+*   Python 3.8+
+*   PyTorch (with CUDA for GPU mode)
+*   Pygame
+*   NumPy
+*   Matplotlib
+
 ## Installation
 
 ```bash
@@ -46,14 +54,6 @@ Then run:
 python play.py
 ```
 ![game](https://github.com/user-attachments/assets/53d4b7e8-01d4-4a3f-8243-ddabd27ef4ca)
-
-## Requirements
-
-*   Python 3.8+
-*   PyTorch (with CUDA for GPU mode)
-*   Pygame
-*   NumPy
-*   Matplotlib
 
 ## License
 [GNU Lesser General Public License v2.1](LICENSE) - Feel free to use and modify
